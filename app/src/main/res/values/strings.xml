@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Onboarding App</string>
+
+    <string name="onboarding_title_page1">Pilih Destinasi</string>
+    <string name="onboarding_title_page2">Pesan Tiket Kamu</string>
+    <string name="onboarding_title_page3">Nikmati Liburannya</string>
+
+    <string name="onboarding_desc_page1">Lorem ipsum dolor sit amet, consectetur adipiscing eli.</string>
+    <string name="onboarding_desc_page2">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="onboarding_desc_page3">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet</string>
+</resources>
